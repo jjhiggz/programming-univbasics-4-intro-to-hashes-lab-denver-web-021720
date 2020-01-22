@@ -1,8 +1,9 @@
-def new_hash
+def new_hash()
   return a={}
 end
 
-def my_hash
+def my_hash()
+  return a = {apples :'Granny Smith' }
   # return a valid hash with any key/value pair of your choice
 end
 
