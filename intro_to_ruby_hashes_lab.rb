@@ -13,6 +13,7 @@ return a = {name: 'Grace Hopper'}
 end
 
 def id_generator
+  return a = id: 1
   # return a hash with a key :id assigned to positive integer
 end
 
