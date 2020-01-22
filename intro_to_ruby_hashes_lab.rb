@@ -38,4 +38,3 @@ if hash[key]
   # if the provided key is present, increment its value by 1
 return hash
 end
-
